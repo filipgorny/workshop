@@ -1,0 +1,14 @@
+- CREATE team
+- add/define project in the team
+  - define project prefix (np. FA-
+
+- add info/note for the rest of the team
+
+- start task
+- end task
+
+- write summary of today
+
+dalej w tle:
+- powiadomienia z github o PR
+- powiadomienia o commitach
